@@ -1,5 +1,6 @@
 import sys
 import os
+import cffi
 from ui_testpractice import * 
 from PyQt5.QtWidgets import * 
 from persistent import Persistent
